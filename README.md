@@ -6,7 +6,7 @@
 </h1>
 
 <h2>Descrição do Projeto:</h2>
-<p >Precisando melhorar seu tempo de reação nas artes marciais? No nervos de aço temos 12 opções de golpes para serem apresentados de forma aleatória em diferentes configurações de tempo para testar seu <strong> raciocínio,coordenação motora e tempo de reação.</strong>Com esta interface você tem total controle de quanto tempo seu treino irá durar,quantos rounds terão sua sessão de treinamento e quanto tempo cada golpe irá aparecer na tela,princípios estes que irão ajudar no treinamento de tempo de reação e ser um auxílio na prática de esportes no dia a dia.</p>
+<p >Precisando melhorar seu tempo de reação nas artes marciais? No projeto nervos de aço temos 12 opções de golpes para serem apresentados de forma aleatória em diferentes configurações de tempo para testar seu <strong> raciocínio,coordenação motora e tempo de reação.</strong>Com esta interface você tem total controle de quanto tempo seu treino irá durar,quantos rounds terão sua sessão de treinamento e quanto tempo cada golpe irá aparecer na tela,princípios estes que irão ajudar no treinamento de tempo de reação e ser um auxílio na prática de esportes no dia a dia.</p>
 
 ## 🚀 Tecnologias utilizadas no projeto
 
@@ -21,7 +21,7 @@
 - [x] Raciocínio rápido
 
 <h4 align="center"> 
-	Treino de reação 🚀 Concluído! 
+	Nervos de aço 🚀 Concluído! 
 </h4>
 
 
