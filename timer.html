@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="timer.css">
+    <title>Tempo de reação</title>
+    <header>
+        <a class="cabecalho" href="index.html">Voltar</a>
+    </header>
+</head>
+
+<body>
+    <main class="formulario">
+        <section class="cronometro_treino">
+            <h1 id="cronometro">00:00</h1>
+            <h1 id="round_atual"></h1>
+        </section>
+    
+        <section class="resultado_treino">
+            <h1 id="golpes"></h1>
+            <h1 id="resultado"></h1>
+        </section>
+
+        <div class="botoes">
+            <button  onclick="continuarTreino()" id="continuar" >Continuar</button>
+            <button  onclick="pausarTreino()"  id="pause">Pause</button>
+        </div>
+    </main>
+
+    <script src="./js/timer.js"></script>
+</body>
+</html>
+
+
+
