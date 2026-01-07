@@ -16,7 +16,7 @@
     
     --arrow-bg: rgba(255, 255, 255, 0.3);
     --arrow-icon: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg);
-    /* Colocar a imagem deste link ao invés do link* */
+    
 
     --option-bg: white;
     --select-bg: rgba(255, 255, 255, 0.2);
@@ -64,8 +64,8 @@ select:hover {
 }
 
 select option {
-  font-size: 0.9rem; /* 🔹 Diminui tamanho da fonte das opções */
-  padding: 0.5rem;    /* 🔹 Diminui altura de cada linha */
+  font-size: 0.9rem; /*  Diminui tamanho da fonte das opções */
+  padding: 0.5rem;    /*  Diminui altura de cada linha */
 }
 
 
@@ -235,7 +235,7 @@ h1, label {
 
 
 #qtd_golpes{
-    margin-top: 10px; /* Animação suave */
+    margin-top: 10px; 
     appearance: none;
 }
 

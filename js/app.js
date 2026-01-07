@@ -37,7 +37,7 @@ function disabilitarSelects(){
 
 function enviarValores() {
     
-    //Tudo dando certo*
+    
     
     const qtd_golpes = document.getElementById("qtd_golpes").value;
     const golpe1 = document.getElementById("golpe1").value;

@@ -12,10 +12,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     
-    /*background: linear-gradient(35deg, rgb(215, 228, 31), rgb(235, 16, 16));
-    tatame 7 ok
-    tatame2 ok
-    */
+    /*background: linear-gradient(35deg, rgb(215, 228, 31), rgb(235, 16, 16));*/
     min-height: 100vh;
 }
 
@@ -91,7 +88,8 @@ body {
     margin: 11%;
 }
 
-.botoes{/*alinhando o formulario*/
+/*alinhando os botões*/
+.botoes{
     display: flex;
     justify-content: space-around;
     align-items: center;
